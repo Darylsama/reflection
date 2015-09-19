@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A: A Git repository is created empty for the files within the directory. We should check the status of the repository submit first commit asap.
