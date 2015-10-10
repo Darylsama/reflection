@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 A: A Git repository is created empty for the files within the directory. We should check the status of the repository submit first commit asap.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A：The staging area works as a buff area for user to confirm which documents to submit. When submitting, user has a chance to reconfirm the file to be submitted.
+
